@@ -12,15 +12,15 @@ Designed and implemented a **MATLAB-based Orthogonal Frequency-Division Multiple
 
 ### 🕹️ **Nintendo DS Game: Remple Tun**  
 Developed **Remple Tun**, a **side-scrolling adventure game** for the Nintendo DS, programmed in **C**. The game features **dual-screen gameplay, animated backgrounds, and interactive mechanics**. Created as part of the **EE-310 Microprogrammed Embedded Systems** course at **EPFL**.  
-[🔗 Repository](#)  
+[🔗 Repository](https://github.com/renukasinghvirk/NintendoDS_project)  
 
 ### 🎾 **VHDL Pong Game**  
 Developed a **hardware-based version of the classic Pong game** using **VHDL**, featuring **VGA communication** on a **Pynq-Z2 FPGA board**. Created as part of the **EE-334 Digital systems** course at **EPFL**.
-[🔗 Repository](#)  
+[🔗 Repository](https://github.com/ThomasLenges/FractalPong-A-PYNQ-Z2-Game)  
 
 ### 🎮 **Microcontroller Assembly Game**  
 Designed and implemented a small game on a microcontroller using **assembly language**, demonstrating low-level hardware programming and optimization techniques. Created as part of the **MICRO-210 Microcontrôleurs** course at **EPFL**. 
-[🔗 Repository](#)
+[🔗 Repository](https://github.com/renukasinghvirk/MCU_project)
 
 ### 💰 **Automated Coin Detection**  
 Designed an automated classification **computer vision-based system** to identify coins from **euro and franc currency** while detecting and classifying other coins as a different type of currency. Created as part of the **EE-451 Image analysis and pattern recognition** course at **EPFL**. 
