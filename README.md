@@ -26,6 +26,10 @@ Designed and implemented a small game on a microcontroller using **assembly lang
 Designed an automated classification **computer vision-based system** to identify coins from **euro and franc currency** while detecting and classifying other coins as a different type of currency. Created as part of the **EE-451 Image analysis and pattern recognition** course at **EPFL**. 
 [🔗 Repository](#) 
 
+### 🧬 **Predicting Experimental Conditions from Gene Expression**
+A **machine learning project in Julia** for predicting the experimental condition (KAT5, CBP, or eGFP) of mouse brain cells based on gene expression levels, using **linear and neural network classifiers**. Created as part of the **BIO-322 Introduction to machine learning for bioengineers** course at **EPFL**.
+[🔗 Repository](https://github.com/ThomasLenges/MouseBrainCell-Condition-Prediction) 
+
 ---
 
 ## 📬 Contact Me  
