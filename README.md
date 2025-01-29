@@ -4,7 +4,7 @@ I'm a Master's student in Electrical and Electronics Engineering at **École Pol
 
 ---
 
-## 🗂️ Previous Projects (Most Recent First)
+## 🗂️ Some Previous Projects (Most Recent First)
 
 ### 🚀 **OFDM Wireless Transmitter and Receiver**  
 Designed and implemented a **MATLAB-based Orthogonal Frequency-Division Multiplexing (OFDM) system** for wireless communication, ensuring efficient data transmission and reception. Created as part of the **EE-442 Wireless receivers: algorithms and architectures** course at **EPFL**. 
@@ -15,11 +15,11 @@ Developed **Remple Tun**, a **side-scrolling adventure game** for the Nintendo D
 [🔗 Repository](https://github.com/renukasinghvirk/NintendoDS_project)  
 
 ### 🎾 **VHDL Pong Game**  
-Developed a **hardware-based version of the classic Pong game** using **VHDL**, featuring **VGA communication** on a **Pynq-Z2 FPGA board**. Created as part of the **EE-334 Digital systems** course at **EPFL**.
+Developed a **hardware-based version of the classic Pong game** using **VHDL**, featuring **VGA communication** on a **Pynq-Z2 FPGA board**. Created as part of the **EE-334 Digital systems design** course at **EPFL**.
 [🔗 Repository](https://github.com/ThomasLenges/FractalPong-A-PYNQ-Z2-Game)  
 
 ### 🎮 **Microcontroller Assembly Game**  
-Designed and implemented a small game on a microcontroller using **assembly language**, demonstrating low-level hardware programming and optimization techniques. Created as part of the **MICRO-210 Microcontrôleurs** course at **EPFL**. 
+Designed and implemented a small game on a microcontroller using **assembly language**, demonstrating low-level hardware programming and optimization techniques. Created as part of the **EE-208 Microcontrollers and numerical systems** course at **EPFL**. 
 [🔗 Repository](https://github.com/renukasinghvirk/MCU_project)
 
 ### 💰 **Automated Coin Detection**  
