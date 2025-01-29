@@ -19,7 +19,7 @@ Developed a **hardware-based version of the classic Pong game** using **VHDL**, 
 [🔗 Repository](https://github.com/ThomasLenges/FractalPong-A-PYNQ-Z2-Game)  
 
 ### 🎮 **Microcontroller Assembly Game**  
-Designed and implemented a small game on a microcontroller using **assembly language**, demonstrating low-level hardware programming and optimization techniques. Created as part of the **EE-208 Microcontrollers and numerical systems** course at **EPFL**. 
+Designed and implemented a small game on a microcontroller using **assembly language**, demonstrating low-level hardware programming and optimization techniques. Created as part of the **EE-210 Microcontrollers** course at **EPFL**. 
 [🔗 Repository](https://github.com/renukasinghvirk/MCU_project)
 
 ### 💰 **Automated Coin Detection**  
