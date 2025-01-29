@@ -1,4 +1,4 @@
-# Thomas Lenges
+## 👋 Hello there! I'm Thomas Lenges — welcome to my GitHub!  
 
 I'm a Master's student in Electrical and Electronics Engineering at **École Polytechnique Fédérale de Lausanne (EPFL)**. My work and projects focus on **hardware/software co-design, machine learning, wireless communication, and image analysis**.
 
