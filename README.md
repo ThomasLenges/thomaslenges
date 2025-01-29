@@ -8,7 +8,7 @@ I'm a Master's student in Electrical and Electronics Engineering at **École Pol
 
 ### 🚀 **OFDM Wireless Transmitter and Receiver**  
 Designed and implemented a **MATLAB-based Orthogonal Frequency-Division Multiplexing (OFDM) system** for wireless communication, ensuring efficient data transmission and reception. Created as part of the **EE-442 Wireless receivers: algorithms and architectures** course at **EPFL**. 
-[🔗 Repository](#)  
+[🔗 Repository](https://github.com/renukasinghvirk/OFDM_system)  
 
 ### 🕹️ **Nintendo DS Game: Remple Tun**  
 Developed **Remple Tun**, a **side-scrolling adventure game** for the Nintendo DS, programmed in **C**. The game features **dual-screen gameplay, animated backgrounds, and interactive mechanics**. Created as part of the **EE-310 Microprogrammed Embedded Systems** course at **EPFL**.  
