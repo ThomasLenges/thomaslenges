@@ -6,6 +6,10 @@ I'm a Master's student in Electrical and Electronics Engineering at **École Pol
 
 ## 🗂️ Some Previous Projects (Most Recent First)
 
+### 🎥 **Real-Time Movement Detection on GECKO5EDUCATION Board**
+Developed a real-time movement detection system using the Sobel edge detection algorithm, optimized for the GECKO5EDUCATION board (74.24 MHz). **Combined Verilog hardware acceleration with C-based software optimization to overcome performance limitations** of the CPU and achieve efficient image processing from an OV7670 camera. Created as part of the **CS-476 Embedded System Design** course at **EPFL**.
+
+
 ### 🚀 **OFDM Wireless Transmitter and Receiver**  
 Designed and implemented a **MATLAB-based Orthogonal Frequency-Division Multiplexing (OFDM) system** for wireless communication, ensuring efficient data transmission and reception. Created as part of the **EE-442 Wireless receivers: algorithms and architectures** course at **EPFL**. 
 [🔗 Repository](https://github.com/renukasinghvirk/OFDM_system)  
