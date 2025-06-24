@@ -44,4 +44,4 @@ A **machine learning project in Julia** for predicting the experimental conditio
 ## 📬 Contact Me  
 Feel free to reach out by [thomas.lenges@epfl.ch](mailto:thomas.lenges@epfl.ch)!
 
-last updated: 15/02/2025
+last updated: 19/06/2025
