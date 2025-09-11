@@ -24,7 +24,7 @@ Developed **Remple Tun**, a **side-scrolling adventure game** for the Nintendo D
 [🔗 Repository](https://github.com/renukasinghvirk/NintendoDS_project)  
 
 ### 🎾 **VHDL Pong Game**  
-Developed a **hardware-based version of the classic Pong game** using **VHDL**, featuring **VGA communication** on a **Pynq-Z2 FPGA board**. Created as part of the **EE-334 Digital systems design** course at **EPFL**.
+Developed a **hardware-based version of the classic Pong game** using **VHDL**, featuring **VGA communication** on a **Pynq-Z2 FPGA board**. Created as part of the **EE-334 Digital systems design** course at **EPFL**. This repository is private due to EDA NDA.
 [🔗 Repository](https://github.com/ThomasLenges/FractalPong-A-PYNQ-Z2-Game)  
 
 ### 🎮 **Microcontroller Assembly Game**  
