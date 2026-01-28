@@ -6,6 +6,9 @@ I'm a Master's student in Electrical and Electronics Engineering at **École Pol
 
 ## 🗂️ Some Previous Projects (Most Recent First)
 
+### 🎧 **WristWave: Android Connected Music Player**
+**Android App** with mobile and wear modules with MediaPlayer, Equalizer APIs. **ROOM and Google Firebase** are used for data storage. Try it out for yourself to discover the different features! Created as part of the **EE-490 Lab on app development for tablets and smartphones** course at **EPFL**. [🔗 Repository](https://github.com/ThomasLenges/WristWave)
+
 ### 🎥 **Real-Time Movement Detection on GECKO5EDUCATION Board**
 Developed a real-time movement detection system using the Sobel edge detection algorithm, optimized for the GECKO5EDUCATION board (74.24 MHz). **Combined Verilog hardware acceleration with C-based software optimization to overcome performance limitations** of the CPU and achieve efficient image processing from an OV7670 camera. Created as part of the **CS-476 Embedded System Design** course at **EPFL**. [🔗 Repository](https://github.com/mbouaissi/virtualprototype.git)  
 
@@ -44,4 +47,4 @@ A **machine learning project in Julia** for predicting the experimental conditio
 ## 📬 Contact Me  
 Feel free to reach out by [thomas.lenges@epfl.ch](mailto:thomas.lenges@epfl.ch)!
 
-last updated: 19/06/2025
+last updated: 28/01/2026
