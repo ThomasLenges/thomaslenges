@@ -6,8 +6,13 @@ I'm a Master's student in Electrical and Electronics Engineering at **École Pol
 
 ## 🗂️ Some Previous Projects (Most Recent First)
 
+### 💾 **W25Q128JW Flash Controller for X-HEEP**
+Designed and implemented a custom **flash memory controller** for the W25Q128JW, enabling high-throughput and low-latency communication between the **X-HEEP MCU** and external non-volatile memory. The project follows a hardware/software co-design approach, with **SystemVerilog** hardware modules handling the flash interface and protocol timing, and **C-based drivers and applications**. The controller was integrated into the X-HEEP open-source **RISC-V** microcontroller platform.
+Developed as part of a collaboration with the **Embedded Systems Laboratory** at **EPFL**.  [🔗 Repository (for Project Report)](https://github.com/ThomasLenges/x-heep/tree/work)  [🔗 X-HEEP Platform](https://github.com/x-heep/x-heep)
+
+
 ### 🎧 **WristWave: Android Connected Music Player**
-**Android App** with mobile and wear modules with MediaPlayer, Equalizer APIs. **ROOM and Google Firebase** are used for data storage. Try it out for yourself to discover the different features! Created as part of the **EE-490 Lab on app development for tablets and smartphones** course at **EPFL**. [🔗 Repository](https://github.com/ThomasLenges/WristWave)
+**Kotlin Android App** with mobile and wear modules with MediaPlayer, Equalizer APIs. **ROOM and Google Firebase** are used for data storage. Try it out for yourself to discover the different features! Created as part of the **EE-490 Lab on app development for tablets and smartphones** course at **EPFL**. [🔗 Repository](https://github.com/ThomasLenges/WristWave)
 
 ### 🎥 **Real-Time Movement Detection on GECKO5EDUCATION Board**
 Developed a real-time movement detection system using the Sobel edge detection algorithm, optimized for the GECKO5EDUCATION board (74.24 MHz). **Combined Verilog hardware acceleration with C-based software optimization to overcome performance limitations** of the CPU and achieve efficient image processing from an OV7670 camera. Created as part of the **CS-476 Embedded System Design** course at **EPFL**. [🔗 Repository](https://github.com/mbouaissi/virtualprototype.git)  
