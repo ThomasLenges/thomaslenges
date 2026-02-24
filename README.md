@@ -9,6 +9,7 @@ I'm a Master's student in Electrical and Electronics Engineering at **École Pol
 
 This project focuses on building a low-cost traffic monitoring system using Arduino-based sensors to collect real-time traffic flow data.
 In early development stage. Repository coming soon.
+#EdgeAI #MCU #Sensors
 
 ---
 
