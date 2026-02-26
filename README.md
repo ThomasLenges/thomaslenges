@@ -16,7 +16,7 @@ In early development stage. Repository coming soon.
 ## 🗂️ Some Previous Projects (Most Recent First)
 
 ### 💾 **W25Q128JW Flash Controller for X-HEEP**
-Designed and implemented a custom **flash memory controller** for the W25Q128JW, enabling high-throughput and low-latency communication between the **X-HEEP MCU** and external non-volatile memory. The project follows a hardware/software co-design approach, with **SystemVerilog** hardware modules handling the flash interface and protocol timing, and **C-based drivers and applications**. The controller was integrated into the X-HEEP open-source **RISC-V** microcontroller platform.
+Designed and implemented a custom **flash memory controller** for the W25Q128JW, enabling high-throughput and low-latency communication between the **X-HEEP MCU** and external non-volatile memory. The project follows a hardware/software co-design approach, with **SystemVerilog** hardware modules handling the flash interface and protocol timing, **C-based drivers and applications**. The controller was integrated into the X-HEEP open-source **RISC-V** microcontroller platform.
 Developed as part of a collaboration with the **Embedded Systems Laboratory** at **EPFL**.  [🔗 Repository (for Project Report)](https://github.com/ThomasLenges/x-heep/tree/work) [🔗 X-HEEP Commit](https://github.com/x-heep/x-heep/commit/6c1e2df7f0172603934a5d12828394a7a8cd4b57) [🔗 X-HEEP Platform](https://github.com/x-heep/x-heep)
 
 ### 🎧 **WristWave: Android Connected Music Player**
