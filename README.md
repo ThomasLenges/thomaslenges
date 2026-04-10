@@ -7,9 +7,11 @@ I'm a Master's student in Electrical and Electronics Engineering at **École Pol
 ## 🗂️ Current Work
 ### 🚦 Traffic Flow Data Collection with Arduino
 
-This project focuses on building a low-cost traffic monitoring system using Arduino-based sensors to collect real-time traffic flow data.
-In early development stage. Repository coming soon.
-#EdgeAI #MCU #Sensors
+**Low-cost traffic monitoring system** leveraging the [Arduino UNO Q](https://www.arduino.cc/product-uno-q)’s capability to run **local vision-language models (VLMs) and perform edge data processing for real-time traffic flow analysis**. The system connects the UNO Q to a USB camera via a powered USB hub, operating without additional external infrastructure, and **streams processed data to the cloud for dashboard monitoring**. The project includes the development of **custom libraries for vehicle tracking to be integrated into the Arduino environment**, enabling accurate traffic flow estimation, as well as fine-tuning of the selected model to improve detection confidence. Repository coming soon.
+
+### 🏅 Milano-Cortina 2026 Olympic Games — Interactive Data Visualization Platform
+
+Interactive data exploration platform to analyze Olympic Games data, **transforming raw datasets into engaging and user-driven visualizations** focused on the Milano-Cortina 2026 Olympics. The project includes **data cleaning and structuring** to support multiple perspectives such as geographical athlete distribution, gender participation trends, and individual vs. team event comparisons, along with a comprehensive overview of the Games. Built using state of the art visualization libraries like D3.js and Leaflet.js, it enables **dynamic, map-based visualizations and optimized** for user friendly experience. Repository coming soon.
 
 ---
 
