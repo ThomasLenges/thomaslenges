@@ -9,13 +9,13 @@ I'm a Master's student in Electrical and Electronics Engineering at **École Pol
 
 **Low-cost traffic monitoring system** leveraging the [Arduino UNO Q](https://www.arduino.cc/product-uno-q)’s capability to run **local vision-language models (VLMs) and perform edge data processing for real-time traffic flow analysis**. The system connects the UNO Q to a USB camera via a powered USB hub, operating without additional external infrastructure, and **streams processed data to the cloud for dashboard monitoring**. The project includes the development of **custom libraries for vehicle tracking to be integrated into the Arduino environment**, enabling accurate traffic flow estimation, as well as fine-tuning of the selected model to improve detection confidence. Repository coming soon.
 
-### 🏅 Milano-Cortina 2026 Olympic Games — Interactive Data Visualization Platform
-
-Interactive data exploration platform to analyze Olympic Games data, **transforming raw datasets into engaging and user-driven visualizations** focused on the Milano-Cortina 2026 Olympics. The project includes **data cleaning and structuring** to support multiple perspectives such as geographical athlete distribution, gender participation trends, and individual vs. team event comparisons, along with a comprehensive overview of the Games. Built using state of the art visualization libraries like D3.js and Leaflet.js, it enables **dynamic, map-based visualizations and optimized** for user friendly experience. Repository coming soon.
-
 ---
 
 ## 🗂️ Some Previous Projects (Most Recent First)
+
+### 🏅 **Milano-Cortina 2026 Olympics Data Visualization**
+
+Created an interactive **scrollytelling website** exploring participation patterns across the Milano-Cortina 2026 Winter Olympics. The project involved **cleaning and cross-referencing a 7-file Olympic dataset**, then building a linked system of visualizations such as a venue map, a treemap of events, an animated medal race or a world map and bar charts breaking down gender representation by country and discipline. All visualizations are connected through a global filter so selecting a country or discipline updates every chart at once. Built with **D3.js v7, Leaflet, TopoJSON and vanilla JavaScript**, no build step required. [🔗 Repository](https://github.com/com-480-data-visualization/VizLaLune) [🔗 Live Website](https://com-480-data-visualization.github.io/VizLaLune/Milestone3/index.html)
 
 ### 💾 **W25Q128JW Flash Controller for X-HEEP**
 Designed and implemented a custom **flash memory controller** for the W25Q128JW, enabling high-throughput and low-latency communication between the **X-HEEP MCU** and external non-volatile memory. The project follows a hardware/software co-design approach, with **SystemVerilog** hardware modules handling the flash interface and protocol timing, **C-based drivers and applications**. The controller was integrated into the X-HEEP open-source **RISC-V** microcontroller platform.
