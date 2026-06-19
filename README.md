@@ -13,6 +13,9 @@ I'm a Master's student in Electrical and Electronics Engineering at **École Pol
 
 ## 🗂️ Some Previous Projects (Most Recent First)
 
+### 🏠 **BuildingMonitor: Multi-Board IoT Dashboard**
+Built a full-stack building monitor spanning three boards and a live web dashboard. An **Arduino UNO R4 WiFi** and **Arduino UNO Q** act as BLE peripherals exposing temperature, RGB LED, and servo lock control, while an **ESP32-S3** bridges both over BLE to **HiveMQ Cloud via MQTT**, which a browser dashboard subscribes to over MQTT-over-WebSocket for real-time updates. The UNO Q's Linux side additionally runs on-device **AI person detection model and video recording, served directly to the dashboard over HTTP and Socket.IO**. [🔗 Repository](https://github.com/ThomasLenges/buildingMonitor) [🔗 Live Dashboard](https://thomaslenges.github.io/buildingMonitor/)
+
 ### 🏅 **Milano-Cortina 2026 Olympics Data Visualization**
 
 Created an interactive **scrollytelling website** exploring participation patterns across the Milano-Cortina 2026 Winter Olympics. The project involved **cleaning and cross-referencing a 7-file Olympic dataset**, then building a linked system of visualizations such as a venue map, a treemap of events, an animated medal race or a world map and bar charts breaking down gender representation by country and discipline. All visualizations are connected through a global filter so selecting a country or discipline updates every chart at once. Built with **D3.js v7, Leaflet, TopoJSON and vanilla JavaScript**, no build step required. [🔗 Repository](https://github.com/com-480-data-visualization/VizLaLune) [🔗 Live Website](https://com-480-data-visualization.github.io/VizLaLune/Milestone3/index.html)
