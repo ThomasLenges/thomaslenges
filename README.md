@@ -5,13 +5,15 @@ I'm a Master's student in Electrical and Electronics Engineering at **École Pol
 ---
 
 ## 🗂️ Current Work
-### 🚦 Traffic Flow Data Collection with Arduino
 
-**Low-cost traffic monitoring system** leveraging the [Arduino UNO Q](https://www.arduino.cc/product-uno-q)’s capability to run **local vision-language models (VLMs) and perform edge data processing for real-time traffic flow analysis**. The system connects the UNO Q to a USB camera via a powered USB hub, operating without additional external infrastructure, and **streams processed data to the cloud for dashboard monitoring**. The project includes the development of **custom libraries for vehicle tracking to be integrated into the Arduino environment**, enabling accurate traffic flow estimation, as well as fine-tuning of the selected model to improve detection confidence. Repository coming soon.
+New projects incoming! (shopping for some new HW!)
 
 ---
 
 ## 🗂️ Some Previous Projects (Most Recent First)
+
+### 🚦 **Traffic Flow Data Collection with Arduino UNO Q**
+A **low-cost, real-time traffic monitoring system** built around the [Arduino UNO Q](https://www.arduino.cc/product-uno-q), combining **on-device object detection with custom vehicle tracking** to estimate traffic flow. A USB camera connected to the UNO Q via a powered USB hub feeds a custom-trained **YOLO model** (built with Edge Impulse). Detections are then passed through a **IoU-based tracker** which assigns persistent IDs, **filters out false positives, and estimates each vehicle's direction** of travel. The resulting traffic flow data is streamed live via **Socket.IO to a web dashboard** for real-time monitoring.
 
 ### 🏠 **BuildingMonitor: Multi-Board IoT Dashboard**
 Built a full-stack building monitor spanning three boards and a live web dashboard. An **Arduino UNO R4 WiFi** and **Arduino UNO Q** act as BLE peripherals exposing temperature, RGB LED, and servo lock control, while an **ESP32-S3** bridges both over BLE to **HiveMQ Cloud via MQTT**, which a browser dashboard subscribes to over MQTT-over-WebSocket for real-time updates. The UNO Q's Linux side additionally runs on-device **AI person detection model and video recording, served directly to the dashboard over HTTP and Socket.IO**. [🔗 Repository](https://github.com/ThomasLenges/buildingMonitor) [🔗 Live Dashboard](https://thomaslenges.github.io/buildingMonitor/)
@@ -65,4 +67,4 @@ A **machine learning project in Julia** for predicting the experimental conditio
 ## 📬 Contact Me  
 Feel free to reach out by [thomas.lenges@epfl.ch](mailto:thomas.lenges@epfl.ch)!
 
-last updated: 10/04/2026
+last updated: 23/06/2026
