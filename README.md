@@ -1,12 +1,12 @@
 ## 👋 Hello there! I'm Thomas Lenges — welcome to my GitHub!  
 
-I'm a Master's student in Electrical and Electronics Engineering at **EPFL, Switzerland**. My work and projects focus on **hardware/software co-design, embedded systems, wireless communication, and computer vision**.
+I'm a Master's student in Electrical and Electronics Engineering at **EPFL, Switzerland** currently working completing an internship at **Logitech**. My work and projects focus on **hardware/software co-design, embedded systems, wireless communication, and computer vision**.
 
 ---
 
 ## 🗂️ Current Work
 
-New projects incoming! (shopping for some new HW!)
+New projects incoming! (shopping for some new HW!).
 
 ---
 
@@ -65,6 +65,6 @@ A **machine learning project in Julia** for predicting the experimental conditio
 ---
 
 ## 📬 Contact Me  
-Feel free to reach out by [thomas.lenges@epfl.ch](mailto:thomas.lenges@epfl.ch)!
+Feel free to reach out at [thomas.lenges@epfl.ch](mailto:thomas.lenges@epfl.ch)!
 
-last updated: 23/06/2026
+last updated: 20/10/2026
