@@ -1,6 +1,6 @@
 ## 👋 Hello there! I'm Thomas Lenges — welcome to my GitHub!  
 
-I'm a Master's student in Electrical and Electronics Engineering at **EPFL, Switzerland** currently working completing an internship at **Logitech**. My work and projects focus on **hardware/software co-design, embedded systems, wireless communication, and computer vision**.
+I'm a MSc student in Electrical and Electronics Engineering at **EPFL (Switzerland)**, currently completing an internship at **Logitech**. My work and projects focus on **hardware/software co-design, embedded systems, wireless communication, and computer vision**.
 
 ---
 
